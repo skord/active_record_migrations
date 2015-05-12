@@ -1,0 +1,4 @@
+thisgem:
+  build: .
+  volumes:
+    - ~/.gem/nexus:/root/.gem/nexus
